@@ -1,5 +1,3 @@
-package empresa;
-
 import java.time.LocalDate;
 
 public class Idade {
